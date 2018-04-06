@@ -1,3 +1,3 @@
-FROM hello-world
+FROM httpd
 MAINTAINER Fanbin Kong "kongxx@hotmail.com"  
 
